@@ -41,3 +41,6 @@ connect("mongodb://localhost/Vidly")
 
 const port = process.env.PORT || 3000;
 app.listen(port, () => console.log(`Listening on port ${port}...`));
+
+
+//i am changing the content of index file to practice the branches more accuratly
